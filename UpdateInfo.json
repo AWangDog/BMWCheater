@@ -1,7 +1,7 @@
 {
   "versions": [
     {
-      "version_number": "0.1.1",
+      "version_number": "0.0.2",
       "release_date": "2024-08-19,20:51",
       "file_hash": {
         "exe_hash": "123456abcdf",
@@ -10,13 +10,13 @@
       "update_notes": [
         "自动更新测试2"
       ],
-      "download_link_1": "https://example.com/downloads/MyApp_0.1.1.exe",
-      "download_link_2": "https://example.com/downloads/MyApp_0.1.1.exe",
-      "download_link_3": "https://example.com/downloads/MyApp_0.1.1.exe",
-      "update_link": "https://example.com/downloads/MyApp_0.1.1.exe"
+      "download_link_1": "https://mirror.ghproxy.com/https://github.com/AWangDog/BMWCheater/releases/download/0.0.2/0.0.2.zip",
+      "download_link_2": "https://cf.ghproxy.cc/https://github.com/AWangDog/BMWCheater/releases/download/0.0.2/0.0.2.zip",
+      "download_link_3": "https://github.com/AWangDog/BMWCheater/releases/download/0.0.2/0.0.2.zip",
+      "update_link": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/AWangDog/BMWCheater/main/UpdateInfo.json"
     },
     {
-      "version_number": "0.1.0",
+      "version_number": "0.0.1",
       "release_date": "2024-08-19,20:39",
       "file_hash": {
         "exe_hash": "123456abcdf",
@@ -28,7 +28,7 @@
       "download_link_1": "https://mirror.ghproxy.com/https://github.com/AWangDog/BMWCheater/releases/download/0.0.1/0.0.1.zip",
       "download_link_2": "https://cf.ghproxy.cc/https://github.com/AWangDog/BMWCheater/releases/download/0.0.1/0.0.1.zip",
       "download_link_3": "https://github.com/AWangDog/BMWCheater/releases/download/0.0.1/0.0.1.zip",
-      "update_link": "https://example.com/downloads/MyApp_0.1.1.exe"
+      "update_link": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/AWangDog/BMWCheater/main/UpdateInfo.json"
     }
   ]
 }
