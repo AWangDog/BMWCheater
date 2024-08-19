@@ -1,0 +1,30 @@
+{
+  "versions": [
+    {
+      "version_number": "0.1.1",
+      "release_date": "2024-08-19,20:51",
+      "file_hash": {
+        "exe_hash": "123456abcdf",
+        "zip_hash": "123456abcdf"
+      },
+      "update_notes": [
+        "自动更新测试2"
+      ],
+      "download_link_1": "https://example.com/downloads/MyApp_0.1.1.exe",
+      "download_link_2": "https://example.com/downloads/MyApp_0.1.1.exe"
+    },
+    {
+      "version_number": "0.1.0",
+      "release_date": "2024-08-19,20:39",
+      "file_hash": {
+        "exe_hash": "123456abcdf",
+        "zip_hash": "123456abcdf"
+      },
+      "update_notes": [
+        "自动更新测试1"
+      ],
+      "download_link_1": "https://example.com/downloads/MyApp_0.1.0.exe",
+      "download_link_2": "https://example.com/downloads/MyApp_0.1.0.exe"
+    }
+  ]
+}
