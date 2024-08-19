@@ -1,6 +1,21 @@
 {
   "versions": [
     {
+      "version_number": "0.0.3",
+      "release_date": "2024-08-20,1:25",
+      "file_hash": {
+        "exe_hash": "123456abcdf",
+        "zip_hash": "123456abcdf"
+      },
+      "update_notes": [
+        "自动更新测试3"
+      ],
+      "download_link_1": "https://mirror.ghproxy.com/https://github.com/AWangDog/BMWCheater/releases/download/0.0.3/0.0.3.zip",
+      "download_link_2": "https://cf.ghproxy.cc/https://github.com/AWangDog/BMWCheater/releases/download/0.0.3/0.0.3.zip",
+      "download_link_3": "https://github.com/AWangDog/BMWCheater/releases/download/0.0.3/0.0.3.zip",
+      "update_link": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/AWangDog/BMWCheater/main/UpdateInfo.json"
+    },
+    {
       "version_number": "0.0.2",
       "release_date": "2024-08-19,20:51",
       "file_hash": {
