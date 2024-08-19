@@ -12,7 +12,8 @@
       ],
       "download_link_1": "https://example.com/downloads/MyApp_0.1.1.exe",
       "download_link_2": "https://example.com/downloads/MyApp_0.1.1.exe",
-      "download_link_3": "https://example.com/downloads/MyApp_0.1.1.exe"
+      "download_link_3": "https://example.com/downloads/MyApp_0.1.1.exe",
+      "update_link": "https://example.com/downloads/MyApp_0.1.1.exe"
     },
     {
       "version_number": "0.1.0",
@@ -26,7 +27,8 @@
       ],
       "download_link_1": "https://example.com/downloads/MyApp_0.1.0.exe",
       "download_link_2": "https://example.com/downloads/MyApp_0.1.0.exe",
-      "download_link_3": "https://example.com/downloads/MyApp_0.1.0.exe"
+      "download_link_3": "https://example.com/downloads/MyApp_0.1.0.exe",
+      "update_link": "https://example.com/downloads/MyApp_0.1.1.exe"
     }
   ]
 }
